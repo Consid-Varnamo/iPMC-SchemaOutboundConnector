@@ -1,0 +1,11 @@
+C:\MyCode\iPMC.Connectors\iPMC.Connectors.Schema\inRiver.StandardSchema\bin\Debug\inRiver.Schemabased.dll.config
+C:\MyCode\iPMC.Connectors\iPMC.Connectors.Schema\inRiver.StandardSchema\bin\Debug\inRiver.Schemabased.dll
+C:\MyCode\iPMC.Connectors\iPMC.Connectors.Schema\inRiver.StandardSchema\bin\Debug\inRiver.Schemabased.pdb
+C:\MyCode\iPMC.Connectors\iPMC.Connectors.Schema\inRiver.StandardSchema\bin\Debug\inRiver.Remoting.dll
+C:\MyCode\iPMC.Connectors\iPMC.Connectors.Schema\inRiver.StandardSchema\bin\Debug\Newtonsoft.Json.dll
+C:\MyCode\iPMC.Connectors\iPMC.Connectors.Schema\inRiver.StandardSchema\bin\Debug\Newtonsoft.Json.xml
+C:\MyCode\iPMC.Connectors\iPMC.Connectors.Schema\inRiver.StandardSchema\obj\Debug\inRiver.SchemaBased.csprojAssemblyReference.cache
+C:\MyCode\iPMC.Connectors\iPMC.Connectors.Schema\inRiver.StandardSchema\obj\Debug\inRiver.SchemaBased.csproj.CoreCompileInputs.cache
+C:\MyCode\iPMC.Connectors\iPMC.Connectors.Schema\inRiver.StandardSchema\obj\Debug\inRiver.SchemaBased.csproj.CopyComplete
+C:\MyCode\iPMC.Connectors\iPMC.Connectors.Schema\inRiver.StandardSchema\obj\Debug\inRiver.Schemabased.dll
+C:\MyCode\iPMC.Connectors\iPMC.Connectors.Schema\inRiver.StandardSchema\obj\Debug\inRiver.Schemabased.pdb
